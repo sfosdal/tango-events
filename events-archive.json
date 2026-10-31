@@ -1,0 +1,291 @@
+{
+ "events": [
+  {
+   "title": "Midi-Milonga - Las Piernas — Montréal, QC",
+   "date": "2026-10-30",
+   "time": "12:00",
+   "end": "16:00:00",
+   "stage": "2019 Rue Moreau",
+   "url": "https://laspiernastango.ca/#nos-activities",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Tango Express — Ottawa, ON",
+   "date": "2026-10-30",
+   "time": "12:10",
+   "end": "13:10:00",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfFmRUcQDJwNRY1gqScPK_fHbu-WKR_N0D69b3v3BX-d3qiKA/viewform?usp=header",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Tango, All Levels, Mickey Jacobs at Castle Hills — Austin, TX",
+   "date": "2026-10-30",
+   "time": "17:30",
+   "end": "18:30:00",
+   "stage": "Castle Hill Fitness Gym & Spa",
+   "url": "https://www.esquinatango.org/community-classes/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "💃 Beginner Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
+   "date": "2026-10-30",
+   "time": "18:15",
+   "end": "19:00:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "💃 Advanced Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "end": "19:45:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Victoria's Milonga — New York, NY",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "end": "23:00:00",
+   "stage": "Ripley Grier Studios - Midtown",
+   "url": "https://victoriacodru.com/calendar",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga - Tangusto (Bi-weekly) — Montréal, QC",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "end": "23:30:00",
+   "stage": "20 Rue Jacinthe",
+   "url": "https://www.facebook.com/tangusto3r",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "💃 Intermediate Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
+   "date": "2026-10-30",
+   "time": "19:45",
+   "end": "20:30:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Milonga de Mis Amores w/ DJ Helene Eriksen — Seattle, WA",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "end": "23:00:00",
+   "stage": "Ballard Oddfellows Hall",
+   "url": "https://amoresmilonga10-30-2026.eventbrite.com",
+   "type": "milonga",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Pre-Milonga El Yeite Class — Washington, DC",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "end": "21:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "GW Tango - Annual Halloween milonga — Washington, DC",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "800 21st St NW",
+   "url": "https://sites.google.com/site/dctangocalendar/gw-argentine-tango",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga - Tango Libre — Montréal, QC",
+   "date": "2026-10-30",
+   "time": "20:15",
+   "end": "00:00:00",
+   "stage": "1650 Rue Marie-Anne Est",
+   "url": "http://www.tangolibre.ca/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Practica 🌊 Buena Onda 🌊 with Ricardo & Lindsey @ Austin Uptown Studio — Austin, TX",
+   "date": "2026-10-30",
+   "time": "20:30",
+   "end": "22:00:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "practica",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Esa! Milonga — New York, NY",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "Ukrainian Private Ballroom",
+   "url": "https://www.marcosyflorencia.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Porteño Y Bailarin Milonga w/Guest DJ — Boston, MA",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "Dance Union",
+   "url": "https://bostontango.org/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Milonga - Cosy — Montréal, QC",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "1483 Avenue du Mont-Royal E",
+   "url": "https://cosy-montreal.com/milongas-de-montreal/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Milonga - MonTango — Montréal, QC",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "5588A Sherbrooke St W",
+   "url": "https://www.montango.ca/milongas-pr%C3%A1cticas",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Milonga El Yeite — Washington, DC",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/milonga-el-yeite-fridays",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  }
+ ]
+}
