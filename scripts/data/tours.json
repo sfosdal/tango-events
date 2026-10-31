@@ -1,0 +1,12 @@
+{
+  "_": "Buenos Aires tango tours run by US organisers — hand-kept (none publish machine-readable dates; survey 2026-10-30, research/ba-tours.md in the project dir). Re-check monthly. A trip is one all-day row per day in the Buenos Aires Tours row.",
+  "tours": [
+    { "title": "Tango Immersion: Buenos Aires", "by": "Andi & Brian, Ultimate Tango", "home": "Malden, MA", "start": "2026-11-07", "end": "2026-11-14", "price": "$2,260–3,220", "url": "https://www.ultimatetango.com/visit-buenos-aires" },
+    { "title": "Buenos Aires Tango Tour", "by": "Dale Ellison (Tango Rojo) & Jorge Duras (Tango Sueño)", "home": "Charleston, SC", "start": "2026-11-06", "end": "2026-11-14", "price": "$2,600–2,900", "url": "https://www.tangorojo.com/tour.html" },
+    { "title": "The Tango Adventure to Buenos Aires", "by": "Silvia Askenazi Tango", "home": "San Pedro, CA", "start": "2026-12-03", "end": "2026-12-12", "url": "https://allevents.in/buenos-aires/the-tango-adventure-to-buenos-aires-december-2026/200029206921015" },
+    { "title": "A&A Buenos Aires Signature Tango Tour", "by": "Andrea Monti & Adrián Durso (Tango USA Championship)", "home": "", "start": "2027-01-02", "end": "2027-01-12", "price": "$4,300–4,600", "url": "https://tangousachampionship.com/tangotours/" },
+    { "title": "Argentina 2027", "by": "Irene Squizzato (Curiosity Roads) with Alex Krebs & Oliver Kolker", "home": "Portland, OR", "start": "2027-01-10", "end": "2027-01-17", "check": "one listing said 01-27 for the end", "url": "https://portlandtango.com/local-community-events/argentina-2027/" },
+    { "title": "Buenos Aires Tango Tour", "by": "Meredith Klein, Milonga Tours", "home": "Philadelphia, PA", "start": "2027-01-16", "end": "2027-01-25", "price": "$3,800–4,000", "url": "https://www.milongatours.com/" },
+    { "title": "25th Anniversary Tour to Buenos Aires & CITA", "by": "Christy Coté & Chelsea Eng", "home": "", "start": "2027-03-03", "end": "2027-03-14", "price": "$2,599", "url": "https://www.tangochelsea.com/cita-2026-buenos-aires" }
+  ]
+}

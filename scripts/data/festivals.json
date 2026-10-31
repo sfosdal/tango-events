@@ -1,0 +1,26 @@
+{
+  "_": "Festivals, marathons and encuentros in the US and Canada — hand-kept from the 2026-10-30 survey (TangoFestivals.net, Tango Marathon Directory, Tangopolix, Siempre Milonguero; research/sources-continental.md). The build adds what the Tango Marathon Directory's API lists beyond these. TangoFestivals.net's robots.txt names AI crawlers, so it is read by hand, never by the build.",
+  "festivals": [
+    { "title": "Pablo Verón Workshops", "place": "Ottawa, ON", "start": "2026-10-31", "end": "2026-11-01", "kind": "class", "url": "https://tangofestivals.net/location/canada/" },
+    { "title": "Pittsburgh Tango Fierro Marathon", "place": "Robinson Township, PA", "start": "2026-11-06", "end": "2026-11-08", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "Bay Tango Festival & Marathon", "place": "Berkeley, CA", "start": "2026-11-13", "end": "2026-11-15", "url": "https://baytango.com" },
+    { "title": "Abrazos Tango Festival", "place": "New York, NY", "start": "2026-11-13", "end": "2026-11-15", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "Gainesville Tango Weekend", "place": "Gainesville, FL", "start": "2026-11-13", "end": "2026-11-15", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "Utopia Encuentro", "place": "Durham, NC", "start": "2026-11-19", "end": "2026-11-23", "url": "https://tangoutopia.com/wp/utopia-encuentro-2026/" },
+    { "title": "Toronto Tango Experience Marathon", "place": "Toronto, ON", "start": "2026-11-27", "end": "2026-11-29", "url": "https://tangofestivals.net/location/canada/" },
+    { "title": "Soda City Tango Weekend", "place": "West Columbia, SC", "start": "2026-11-28", "end": "2026-11-29", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "Southern Holiday Tango Fest", "place": "Norcross, GA", "start": "2026-12-17", "end": "2026-12-20", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "San Diego Tango Festival", "place": "San Diego, CA", "start": "2026-12-31", "end": "2027-01-03", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "Todo Corazón Encuentro SF", "place": "San Rafael, CA", "start": "2027-01-22", "end": "2027-01-24", "url": "https://siempremilonguero.org/" },
+    { "title": "Los Angeles Encuentro Milonguero", "place": "Los Angeles, CA", "start": "2027-02-26", "end": "2027-02-28", "url": "https://siempremilonguero.org/" },
+    { "title": "Austin Spring Tango Festival", "place": "Austin, TX", "start": "2027-03-19", "end": "2027-03-21", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "So Cal Tango Championship & Festival", "place": "Irvine, CA", "start": "2027-04-01", "end": "2027-04-04", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "Island Embrace Tango Marathon", "place": "Victoria, BC", "start": "2027-04-09", "end": "2027-04-11", "url": "https://www.tangopolix.com/tango-events-calendar" },
+    { "title": "Encuentro Milonguero Vancouver", "place": "Vancouver, BC", "start": "2027-04-23", "end": "2027-04-25", "url": "https://siempremilonguero.org/" },
+    { "title": "Tango USA Championship & Festival", "place": "Burlingame, CA", "start": "2027-05-27", "end": "2027-05-31", "url": "https://tangousachampionship.com/" },
+    { "title": "Ithaca Tango Weekend", "place": "Lansing, NY", "start": "2027-07-23", "end": "2027-07-25", "url": "https://tangofestivals.net/location/united-states/" },
+    { "title": "La Promesa Tango Festival", "place": "Toronto, ON", "start": "2027-07-29", "end": "2027-08-03", "url": "https://tangofestivals.net/location/canada/" },
+    { "title": "Austin Tango Marathon", "place": "Austin, TX", "start": "2027-09-03", "end": "2027-09-05", "url": "https://austintangomarathon.com/" },
+    { "title": "Toronto Tango 8 Festival ★ Marathon", "place": "Notre-Dame-du-Laus, QC", "start": "2027-09-22", "end": "2027-09-26", "url": "https://tangofestivals.net/location/canada/" }
+  ]
+}

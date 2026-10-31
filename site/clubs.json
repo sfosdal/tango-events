@@ -1,0 +1,288 @@
+{
+ "generated": "2026-10-30",
+ "source": "hand-kept — the 2026-10-30 survey (research/sources-metros.md in the project dir); a community with `feeds` is read by scripts/fetch-events.mjs, the rest are listed for their own sites",
+ "clubs": [
+  {
+   "name": "All Seattle Tango",
+   "town": "Seattle",
+   "state": "WA",
+   "url": "https://www.allseattletango.com/",
+   "lat": 47.6062,
+   "lon": -122.3321,
+   "tz": "America/Los_Angeles",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "303dv79v9olf53l5lv2kle2ivs@group.calendar.google.com"
+    },
+    {
+     "kind": "gcal",
+     "id": "i3g8f3upv0cub8f0j1vkt9mubk@group.calendar.google.com",
+     "type": "class"
+    }
+   ]
+  },
+  {
+   "name": "Portland Tango",
+   "town": "Portland",
+   "state": "OR",
+   "url": "https://portlandtango.com/",
+   "lat": 45.5152,
+   "lon": -122.6784,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "name": "Bay Area Argentine Tango Association (TangoMango)",
+   "town": "San Francisco",
+   "state": "CA",
+   "url": "https://www.tangomango.org/",
+   "lat": 37.7749,
+   "lon": -122.4194,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "name": "TangoMango Los Angeles",
+   "town": "Los Angeles",
+   "state": "CA",
+   "url": "https://www.tangomango.org/",
+   "lat": 34.0522,
+   "lon": -118.2437,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "name": "TangoMango Sacramento",
+   "town": "Sacramento",
+   "state": "CA",
+   "url": "https://www.tangomango.org/",
+   "lat": 38.5816,
+   "lon": -121.4944,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "name": "TangoMango San Diego",
+   "town": "San Diego",
+   "state": "CA",
+   "url": "https://www.tangomango.org/",
+   "lat": 32.7157,
+   "lon": -117.1611,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "name": "Tango Colorado",
+   "town": "Denver",
+   "state": "CO",
+   "url": "https://tangocolorado.org/",
+   "lat": 39.7392,
+   "lon": -104.9903,
+   "tz": "America/Denver",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "coloradotangocalendar@gmail.com"
+    }
+   ]
+  },
+  {
+   "name": "Wasatch Tango",
+   "town": "Salt Lake City",
+   "state": "UT",
+   "url": "https://wasatchtango.org/",
+   "lat": 40.7608,
+   "lon": -111.891,
+   "tz": "America/Denver",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "wasatchtango@gmail.com"
+    }
+   ]
+  },
+  {
+   "name": "TangoMango Phoenix & Tucson",
+   "town": "Phoenix",
+   "state": "AZ",
+   "url": "https://www.tangomango.org/",
+   "lat": 33.4484,
+   "lon": -112.074,
+   "tz": "America/Phoenix"
+  },
+  {
+   "name": "Austin Tango Society",
+   "town": "Austin",
+   "state": "TX",
+   "url": "https://austintango.org/",
+   "lat": 30.2672,
+   "lon": -97.7431,
+   "tz": "America/Chicago",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "aiusn8ua5aq0fn2hqavnlabvpg@group.calendar.google.com"
+    },
+    {
+     "kind": "gcal",
+     "id": "jn6j9aghkkulchvnivkpck2r5g@group.calendar.google.com",
+     "type": "class"
+    }
+   ]
+  },
+  {
+   "name": "TangoMango Chicago",
+   "town": "Chicago",
+   "state": "IL",
+   "url": "https://www.tangomango.org/",
+   "lat": 41.8781,
+   "lon": -87.6298,
+   "tz": "America/Chicago"
+  },
+  {
+   "name": "Capital Tangueros",
+   "town": "Washington",
+   "state": "DC",
+   "url": "https://calendar.google.com/calendar/embed?src=4vt5bq8tisa5vka79l0f6v5av4%40group.calendar.google.com",
+   "lat": 38.9072,
+   "lon": -77.0369,
+   "tz": "America/New_York",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "4vt5bq8tisa5vka79l0f6v5av4@group.calendar.google.com"
+    }
+   ]
+  },
+  {
+   "name": "Triangle Tango",
+   "town": "Durham",
+   "state": "NC",
+   "url": "https://calendar.google.com/calendar/embed?src=triangletango10%40gmail.com",
+   "lat": 35.994,
+   "lon": -78.8986,
+   "tz": "America/New_York",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "triangletango10@gmail.com"
+    }
+   ]
+  },
+  {
+   "name": "Philadelphia Tango",
+   "town": "Philadelphia",
+   "state": "PA",
+   "url": "https://philadelphiadance.org/tango/",
+   "lat": 39.9526,
+   "lon": -75.1652,
+   "tz": "America/New_York"
+  },
+  {
+   "name": "New York Tango",
+   "town": "New York",
+   "state": "NY",
+   "url": "https://www.newyorktango.com/",
+   "lat": 40.7128,
+   "lon": -74.006,
+   "tz": "America/New_York",
+   "feeds": [
+    {
+     "kind": "nyc"
+    }
+   ]
+  },
+  {
+   "name": "Tango Society of Boston",
+   "town": "Boston",
+   "state": "MA",
+   "url": "https://bostontango.org/",
+   "lat": 42.3601,
+   "lon": -71.0589,
+   "tz": "America/New_York",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "e8ulg12pg9oh7es6ofvn3mk78c@group.calendar.google.com"
+    },
+    {
+     "kind": "gcal",
+     "id": "qora55kcollpe9253h8ju4q6p4@group.calendar.google.com"
+    },
+    {
+     "kind": "gcal",
+     "id": "thetangosocietyofboston@gmail.com",
+     "type": "class"
+    }
+   ]
+  },
+  {
+   "name": "Tango Montréal",
+   "town": "Montréal",
+   "state": "QC",
+   "url": "https://tangocalmontreal.ca/",
+   "lat": 45.5019,
+   "lon": -73.5674,
+   "tz": "America/Toronto",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "re3i4ivvapgtusnj1e0ern28jo@group.calendar.google.com"
+    },
+    {
+     "kind": "gcal",
+     "id": "56dji6s68ca5s720qk6vbgj49s@group.calendar.google.com",
+     "type": "practica"
+    },
+    {
+     "kind": "gcal",
+     "id": "fib6sgmn27rbb8ponjlish3ct4@group.calendar.google.com"
+    }
+   ]
+  },
+  {
+   "name": "Siempre Tango",
+   "town": "Ottawa",
+   "state": "ON",
+   "url": "https://siempretango.ca/",
+   "lat": 45.4215,
+   "lon": -75.6972,
+   "tz": "America/Toronto",
+   "feeds": [
+    {
+     "kind": "gcal",
+     "id": "info@siempretango.ca"
+    }
+   ]
+  },
+  {
+   "name": "Toronto Tango",
+   "town": "Toronto",
+   "state": "ON",
+   "url": "https://www.torontotango.com/",
+   "lat": 43.6532,
+   "lon": -79.3832,
+   "tz": "America/Toronto"
+  },
+  {
+   "name": "Beso de Tango",
+   "town": "Calgary",
+   "state": "AB",
+   "url": "https://besodetango.com/",
+   "lat": 51.0447,
+   "lon": -114.0719,
+   "tz": "America/Edmonton",
+   "feeds": [
+    {
+     "kind": "tribe",
+     "url": "https://besodetango.com/wp-json/tribe/events/v1/events"
+    }
+   ]
+  },
+  {
+   "name": "All Vancouver Tango",
+   "town": "Vancouver",
+   "state": "BC",
+   "url": "https://allvancouvertango.com/",
+   "lat": 49.2827,
+   "lon": -123.1207,
+   "tz": "America/Vancouver"
+  }
+ ]
+}
