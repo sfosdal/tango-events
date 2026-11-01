@@ -286,6 +286,384 @@
     38.8951,
     -77.0364
    ]
+  },
+  {
+   "title": "Halloween Milonga — Boston, MA",
+   "date": "2026-10-31",
+   "time": "",
+   "url": "https://bostontango.org/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "venue": "Festivals & Marathons",
+   "title": "Pablo Verón Workshops — Ottawa, ON",
+   "url": "https://tangofestivals.net/location/canada/",
+   "type": "class",
+   "date": "2026-10-31",
+   "time": "",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Mariela's Practica — New York, NY",
+   "date": "2026-10-31",
+   "time": "11:00",
+   "end": "14:00:00",
+   "stage": "Emmanuel Pierre-Antoine Dance Studio",
+   "url": "https://tango-flow.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga - Tangueria — Montréal, QC",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "6396 Rue St-Hubert",
+   "url": "http://www.tangueria.org/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Practilonga - Tango Club Rive Nord — Montréal, QC",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "Grand Studio",
+   "url": "https://tangoclubrivenord.com/practilonga-2/",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Practica - Mots et Tango — Montréal, QC",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "end": "15:30:00",
+   "stage": "306 rue Elm",
+   "url": "https://motstango.com/evenements/",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Tango, Beginner Level with Monica Caivano & Gustavo Simplis at Esquina Tango — Austin, TX",
+   "date": "2026-10-31",
+   "time": "13:30",
+   "end": "14:30:00",
+   "stage": "EsquinaTango",
+   "url": "https://www.google.com/url?q=https://www.esquinatango.org/classes/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2EYTXRdOTJ1tyleYV8ZyE7",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Practica - Tango Rico — Montréal, QC",
+   "date": "2026-10-31",
+   "time": "13:30",
+   "end": "16:00:00",
+   "stage": "1154 Av. Victoria studio u",
+   "url": "https://tangorico.com/boutique/fr/Evenement/la-practica-de-tango-rico-a-st-lambert-p435c97/",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "DC Queer Tango Collective Free Open Práctica — Washington, DC",
+   "date": "2026-10-31",
+   "time": "13:30",
+   "end": "16:30:00",
+   "stage": "Cultural Arts Center",
+   "url": "https://www.google.com/url?q=https://www.dcqueertangocollective.com/community-norms&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0AjNbXCsgmLrmeXB1Eyoq5",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington - Beg. Level 1 series — Washington, DC",
+   "date": "2026-10-31",
+   "time": "14:00",
+   "end": "15:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "VTS: 4 Week Series Sacadas with Gabriel & Cati — Washington, DC",
+   "date": "2026-10-31",
+   "time": "14:00",
+   "end": "16:00:00",
+   "stage": "303C Mill St NE",
+   "url": "https://viennatango.com/special-topics-sacadas",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington - BEG. Level 1 series — Washington, DC",
+   "date": "2026-10-31",
+   "time": "14:00",
+   "end": "15:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Tango, Intermediate Level with Monica Caivano & Gustavo Simplis at Esquina Tango — Austin, TX",
+   "date": "2026-10-31",
+   "time": "14:30",
+   "end": "15:30:00",
+   "stage": "EsquinaTango",
+   "url": "https://www.esquinatango.org/classes/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Practica - Las Piernas — Montréal, QC",
+   "date": "2026-10-31",
+   "time": "14:30",
+   "end": "17:30:00",
+   "stage": "2019 Rue Moreau",
+   "url": "https://laspiernastango.ca/#nos-activities",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Barrilito Especial — New York, NY",
+   "date": "2026-10-31",
+   "time": "15:00",
+   "end": "19:00:00",
+   "stage": "You Should Be Dancing",
+   "url": "https://barrilitotango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Victoria's Practica — New York, NY",
+   "date": "2026-10-31",
+   "time": "15:30",
+   "end": "17:00:00",
+   "stage": "Ripley Grier Studios - Midtown",
+   "url": "https://victoriacodru.com/calendar",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "☆☆☆ 30th Anniversary Austin Tango Practica Milonga ☆☆☆ — Austin, TX",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "end": "23:00:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://facebook.com/events/s/30th-anniversary-atp-milonga/2296810274504058/",
+   "type": "practica",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Halloween Luna Milonga — Salt Lake City, UT",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "end": "23:00:00",
+   "stage": "700 N 200 W",
+   "url": "https://wasatchtango.org/",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Tango Esta Noches Milonga — Washington, DC",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "Homewood Friends",
+   "url": "https://www.google.com/url?q=https://sites.google.com/site/dctangocalendar/tango-esta-noche&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2YCUp2o08RtE73q9Nh1eXr",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Special Dance with Live Music: Ciao Felicia Band (Portland, Oregon) + Halloween Spooktacular Milonga with Costume Contest! — Seattle, WA",
+   "date": "2026-10-31",
+   "time": "20:30",
+   "end": "00:00:00",
+   "url": "https://www.allseattletango.com/",
+   "type": "milonga",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Volver — New York, NY",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "end": "02:00:00",
+   "stage": "You Should Be Dancing",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Starry Night Tango — New York, NY",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "Hungarian House",
+   "url": "https://www.starrynighttango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga - Studio Tango — Montréal, QC",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "end": "02:00:00",
+   "stage": "7755 boul St Laurent",
+   "url": "https://studiotango.ca/milonga-products/saturday-night-the-tsc-milonga",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Blue Moon Milonga — Washington, DC",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "Colvin Run Dance Hall",
+   "url": "https://www.facebook.com/ColvinRunTango/",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
   }
  ]
 }
