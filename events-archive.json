@@ -459,22 +459,6 @@
    ]
   },
   {
-   "title": "ArTS of Greater Washington - BEG. Level 1 series — Washington, DC",
-   "date": "2026-10-31",
-   "time": "14:00",
-   "end": "15:00:00",
-   "stage": "5608 Randolph Road",
-   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
-   "type": "class",
-   "venue": "Mid-Atlantic & Carolinas",
-   "tz": "America/New_York",
-   "place": "Washington, DC",
-   "geo": [
-    38.8951,
-    -77.0364
-   ]
-  },
-  {
    "title": "Tango, Intermediate Level with Monica Caivano & Gustavo Simplis at Esquina Tango — Austin, TX",
    "date": "2026-10-31",
    "time": "14:30",
@@ -656,6 +640,617 @@
    "end": "01:00:00",
    "stage": "Colvin Run Dance Hall",
    "url": "https://www.facebook.com/ColvinRunTango/",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "venue": "Festivals & Marathons",
+   "title": "Pablo Verón Workshops — Ottawa, ON",
+   "url": "https://tangofestivals.net/location/canada/",
+   "type": "class",
+   "date": "2026-11-01",
+   "time": "",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Beginners w Anita UT — Boston, MA",
+   "date": "2026-11-01",
+   "time": "11:30",
+   "end": "13:00:00",
+   "url": "https://www.ultimatetango.com/beginner",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Intermediate w Hernan UT — Boston, MA",
+   "date": "2026-11-01",
+   "time": "11:30",
+   "end": "14:30:00",
+   "url": "https://www.ultimatetango.com/intermediate",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Sunday Practica — Salt Lake City, UT",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "BallroomUtah Dance Studio",
+   "url": "https://www.facebook.com/share/g/18Wu41oJAy/",
+   "type": "practica",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Milonga Madera Verde - DJ Jenny — Seattle, WA",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "end": "17:00:00",
+   "stage": "Greenwood Masonic Lodge",
+   "url": "https://www.allseattletango.com/",
+   "type": "milonga",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "El Tangyorker — New York, NY",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "MyTangoBody",
+   "url": "https://www.newyorktango.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Pre-Advanced w Hernan UT — Boston, MA",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "end": "14:30:00",
+   "url": "https://www.ultimatetango.com/preadvanced",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Pre-Intermediate w Anita UT — Boston, MA",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "end": "14:30:00",
+   "url": "https://www.ultimatetango.com/preintermediate",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Tango 101 (Beginners) — Ottawa, ON",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "end": "14:15:00",
+   "url": "https://forms.gle/jzrseoQC7GZBdwpaA",
+   "type": "class",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Tango at the Club: Advanced/Intermediate class with Phil Jones — Washington, DC",
+   "date": "2026-11-01",
+   "time": "13:30",
+   "end": "15:00:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Practica — Durham, NC",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "end": "16:00:00",
+   "stage": "2603 S Miami Blvd",
+   "url": "https://sites.google.com/view/social-tango-praxis/home",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Durham, NC",
+   "geo": [
+    35.9967,
+    -78.9018
+   ]
+  },
+  {
+   "title": "Practica - Tango Libre — Montréal, QC",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "end": "16:00:00",
+   "stage": "1650 Rue Marie-Anne Est",
+   "url": "http://www.tangolibre.ca/",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Fábrica Tango Severna Park - Beg. Tango Class — Washington, DC",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "end": "15:30:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Fábrica Tango Severna Park - BEG. Tango Class — Washington, DC",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "end": "15:30:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga - MonTango — Montréal, QC",
+   "date": "2026-11-01",
+   "time": "14:30",
+   "end": "18:00:00",
+   "stage": "5588A Sherbrooke St W",
+   "url": "https://www.montango.ca/milongas-pr%C3%A1cticas",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Training for Followers in Tango w/Kristina (Seattle) — Seattle, WA",
+   "date": "2026-11-01",
+   "time": "14:45",
+   "end": "16:00:00",
+   "stage": "725 24th Ave S",
+   "url": "https://www.allseattletango.com/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Milonga Temprana — New York, NY",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "end": "19:00:00",
+   "stage": "KTown Dance Studio",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Sunday Practica — Boston, MA",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "end": "18:00:00",
+   "stage": "Extreme Danceport",
+   "url": "http://www.bostontango.org/events-in-other-locations.html",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Practica - Studio Tango — Montréal, QC",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "end": "17:30:00",
+   "stage": "7755 boul St Laurent",
+   "url": "https://studiotango.ca/milongas-events",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Fábrica Tango Severna Park - Práctica — Washington, DC",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "end": "17:30:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Fábrica Tango Severna Park - Tango at the Club Práctica — Washington, DC",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "end": "17:30:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "NEW--BEGINNER Tango — Boston, MA",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "end": "17:00:00",
+   "url": "https://pci.jotform.com/form/262305651536152?utm_id=97758_v0_s00_e0_tv4_a1dennhb70488l&amp;fbclid=IwcGRvZgVleHRuA2FlbQIxMABicmlkETE0UEs2UE0wbUpLSm82Tlozc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnDFdg41Wy9M0Zkdr3zMnyaWuu3zx-qPgEf3EppbBxPjuTju0vVy0pQu4xKv_aem_EnGUw-csp7p2wg9gSoHkZQ",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "NEW--BEGINNER TANGO — Boston, MA",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "end": "17:00:00",
+   "url": "https://pci.jotform.com/form/262305651536152?utm_id=97758_v0_s00_e0_tv4_a1dennhb70488l&amp;fbclid=IwcGRvZgVleHRuA2FlbQIxMABicmlkETE0UEs2UE0wbUpLSm82Tlozc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnDFdg41Wy9M0Zkdr3zMnyaWuu3zx-qPgEf3EppbBxPjuTju0vVy0pQu4xKv_aem_EnGUw-csp7p2wg9gSoHkZQ",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Tango Classes with Julia at LaVida — Seattle, WA",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "end": "18:00:00",
+   "url": "https://www.lavidastudio.com/adults/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Neo Tango Milonga — New York, NY",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "end": "21:00:00",
+   "stage": "Balance Arts Center",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Practica and Social @Rosecomb — Durham, NC",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "end": "20:00:00",
+   "stage": "Rosecomb Beer Garden",
+   "url": "https://calendar.google.com/calendar/embed?src=triangletango10%40gmail.com",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Durham, NC",
+   "geo": [
+    35.9967,
+    -78.9018
+   ]
+  },
+  {
+   "title": "Tango Classes with Julia at LaVida — Seattle, WA",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end": "19:00:00",
+   "url": "https://www.lavidastudio.com/adults/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Milonga Malena — New York, NY",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end": "22:00:00",
+   "stage": "ConfiDance Center",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Bailemos — New York, NY",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end": "22:30:00",
+   "stage": "Centro Español de Queens",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Practilonga Caminito --6-9pm--6pm Class for all — Boston, MA",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end": "21:00:00",
+   "stage": "Dance Union Studio",
+   "url": "http://www.bostontango.org",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Sunday Tango Classes with Vania Rey!!! — Austin, TX",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end": "19:00:00",
+   "stage": "Balance Dance Studios",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Tango Dos — New York, NY",
+   "date": "2026-11-01",
+   "time": "18:30",
+   "end": "20:00:00",
+   "stage": "Spotlight Dance Studio",
+   "url": "https://tangodos.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Tango Brillante Class — Washington, DC",
+   "date": "2026-11-01",
+   "time": "18:30",
+   "end": "19:30:00",
+   "stage": "Glen Echo Park",
+   "url": "https://sites.google.com/site/dctangocalendar/tango-brillante-glen-echo",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Practica LaVida - DJ Tom Lee — Seattle, WA",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "end": "21:00:00",
+   "stage": "LaVida Dance Studio",
+   "url": "https://www.facebook.com/groups/LaVidaTango",
+   "type": "practica",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Austin Tango Practica — Austin, TX",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "end": "21:30:00",
+   "stage": "Balance Dance Studios",
+   "url": "https://www.facebook.com/AustinTangoPractica?mibextid=ZbWKwL",
+   "type": "practica",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "■ The Practica Guide For Today Is David Phillips — Austin, TX",
+   "date": "2026-11-01",
+   "time": "19:15",
+   "end": "21:15:00",
+   "url": "https://austintango.org/",
+   "type": "practica",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Milonga - Las Piernas — Montréal, QC",
+   "date": "2026-11-01",
+   "time": "19:15",
+   "end": "23:00:00",
+   "stage": "2019 Rue Moreau",
+   "url": "https://laspiernastango.ca/#nos-activities",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Tango Brillante Class — Washington, DC",
+   "date": "2026-11-01",
+   "time": "19:30",
+   "end": "20:30:00",
+   "stage": "Glen Echo Park",
+   "url": "https://sites.google.com/site/dctangocalendar/tango-brillante-glen-echo",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Tango Brillante Milonga w/ Live Music — Washington, DC",
+   "date": "2026-11-01",
+   "time": "20:30",
+   "end": "23:00:00",
+   "stage": "Glen Echo Park",
+   "url": "https://sites.google.com/site/dctangocalendar/tango-brillante-glen-echo",
    "type": "milonga",
    "venue": "Mid-Atlantic & Carolinas",
    "tz": "America/New_York",
