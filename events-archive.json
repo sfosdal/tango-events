@@ -1498,6 +1498,656 @@
     38.8951,
     -77.0364
    ]
+  },
+  {
+   "title": "Senior Tango with Mickey at Esquina Tango — Austin, TX",
+   "date": "2026-11-03",
+   "time": "13:00",
+   "end": "14:00:00",
+   "stage": "EsquinaTango",
+   "url": "https://www.esquinatango.org/classes-2/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Tango Drop-in Class w/ Gabriela Condrea @TangoHappyHour — Seattle, WA",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "end": "19:00:00",
+   "stage": "Harissa Mediterranean Cuisine",
+   "url": "https://www.allseattletango.com/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Tango Tuesday Practica — Denver, CO",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "end": "22:30:00",
+   "stage": "Althea Center",
+   "url": "https://tangocolorado.org/",
+   "type": "practica",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Denver, CO",
+   "geo": [
+    39.7392,
+    -104.9849
+   ]
+  },
+  {
+   "title": "Two Flame Tango - Lv 2 — Salt Lake City, UT",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "end": "19:30:00",
+   "url": "https://twoflametango.com/classes/beginner",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Beginner and Intermediate classes with John Singletary — Durham, NC",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "end": "20:00:00",
+   "stage": "Move with Grace",
+   "url": "https://www.movewithgraceballroom.com/",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Durham, NC",
+   "geo": [
+    35.9967,
+    -78.9018
+   ]
+  },
+  {
+   "title": "Tango 101+102 — Ottawa, ON",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "end": "19:45:00",
+   "url": "https://siempretango.ca/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Los Tres Amigos — New York, NY",
+   "date": "2026-11-03",
+   "time": "18:45",
+   "end": "22:00:00",
+   "stage": "Ripley Grier Studios - Midtown",
+   "url": "https://www.blackwellassociates.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Forever Dancing Ballroom Beg. & Up Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "18:45",
+   "end": "19:30:00",
+   "stage": "Forever Dancing Ballroom",
+   "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Forever Dancing Ballroom BEG. & Up Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "18:45",
+   "end": "19:30:00",
+   "stage": "Forever Dancing Ballroom",
+   "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Tango Class Riverton — Salt Lake City, UT",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "An Dragan Ceilteach Irish Dancers",
+   "url": "https://wasatchtango.org/",
+   "type": "class",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Beginning and Beyond Tango class with Michelle and Julia — Seattle, WA",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Greenwood Masonic Lodge",
+   "url": "https://www.allseattletango.com/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Tango Turns & Linking Steps (Int. Level) with Tony & Ilana — Seattle, WA",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "PNA Phinney Center Campus",
+   "url": "https://www.allseattletango.com/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "TangoHappyHour ~ milonguita w/ live music! — Seattle, WA",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "21:00:00",
+   "stage": "Harissa Mediterranean Cuisine",
+   "url": "https://www.allseattletango.com/",
+   "type": "milonga",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Tuesday Practica — New York, NY",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "21:30:00",
+   "stage": "Ripley Grier Studios - Columbus Circle",
+   "url": "https://www.newyorktango.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Hartford Tango Practica — New York, NY",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "21:30:00",
+   "stage": "Hartford Ballroom",
+   "url": "https://www.newyorktango.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Noche de Practica w/Guillermo Merlo — Boston, MA",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "22:00:00",
+   "url": "https://bostontango.org/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Argentine Tango Space Project Beg. Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Church of the Messiah",
+   "url": "https://www.facebook.com/ArgentineTangoSpaceProject/",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "DSL Tango Beg. Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "18 Roth St",
+   "url": "https://sites.google.com/site/dctangocalendar/dsl-tango",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "VTS - 8 week series Foundations: The Linear System — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "303C Mill St NE",
+   "url": "https://viennatango.com/foundations-9722",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Argentine Tango Space Project BEG. Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Church of the Messiah",
+   "url": "https://www.facebook.com/ArgentineTangoSpaceProject/",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Cambalache Alt-Tango! — Denver, CO",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "21:30:00",
+   "stage": "Denver Turnverein Dance Center",
+   "url": "https://tangocolorado.org/",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Denver, CO",
+   "geo": [
+    39.7392,
+    -104.9849
+   ]
+  },
+  {
+   "title": "Two Flame Tango - Lv 3 — Salt Lake City, UT",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "20:45:00",
+   "stage": "Rose Park",
+   "url": "https://twoflametango.com/classes/beginner",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Break Tango Ogden — Salt Lake City, UT",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "23:30:00",
+   "stage": "Rhythm Dance & Wellness",
+   "url": "https://wasatchtango.org/",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Short Sequences — Boston, MA",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "20:30:00",
+   "url": "https://www.ultimatetango.com/short-sequences",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Int/Adv Tango by Tango Affair — Boston, MA",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "21:00:00",
+   "stage": "Tango Affair Studio--9 Union St.",
+   "url": "http://www.tangoaffair.com/classes/",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Forever Dancing Ballroom All Levels Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "20:15:00",
+   "stage": "Forever Dancing Ballroom",
+   "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "The Tango Club - All Levels Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end": "20:30:00",
+   "stage": "St. Stephen and the Incarnation Episcopal Church",
+   "url": "https://sites.google.com/site/dctangocalendar/the-tango-club",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "DSL Tango Int. Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:45",
+   "end": "20:45:00",
+   "stage": "18 Roth St",
+   "url": "https://sites.google.com/site/dctangocalendar/dsl-tango",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Elegant Dancing - 3-Week Series Beginner Argentine Tango — Washington, DC",
+   "date": "2026-11-03",
+   "time": "19:45",
+   "end": "20:30:00",
+   "stage": "Elegant Dancing",
+   "url": "https://elegantdancing.com/mindbody",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Int. Argentine Tango class with Michelle & Julia — Seattle, WA",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "21:00:00",
+   "url": "https://www.allseattletango.com/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Milonga para Todos — New York, NY",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "412 8th Ave, 4th Fl",
+   "url": "https://nytangoschool.nyc/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Shonsky's Practica — New York, NY",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "22:00:00",
+   "stage": "Andy's Rehearsal Studios",
+   "url": "https://www.newyorktango.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Mini Milonga — New York, NY",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "22:00:00",
+   "stage": "986 River Rd STE 2, Edgewater, NJ 07020",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Tango en Candela — New York, NY",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "23:00:00",
+   "stage": "Paramus Firehouse",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "ArTs of Greater Washington - Master Workshop of Vals & Milonga — Washington, DC",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "21:30:00",
+   "stage": "5608 Randolph Rd",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "VTS - 4 week series Special Topics: Essential Figures — Washington, DC",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end": "21:00:00",
+   "stage": "303C Mill St NE",
+   "url": "https://www.google.com/url?q=https://viennatango.com/special-topics-153482&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0s0HA4UgqDemC0m-9U2jMs",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Nuevo Tango Toolkit (Int./Adv.) with Tony & Ilana — Seattle, WA",
+   "date": "2026-11-03",
+   "time": "20:10",
+   "end": "21:10:00",
+   "stage": "PNA Phinney Center Blue Building",
+   "url": "https://www.allseattletango.com/",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Forever Dancing Ballroom INT./ADV. Class — Washington, DC",
+   "date": "2026-11-03",
+   "time": "20:15",
+   "end": "21:00:00",
+   "stage": "Forever Dancing Ballroom",
+   "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Practica Chiquita — Boston, MA",
+   "date": "2026-11-03",
+   "time": "20:30",
+   "end": "21:30:00",
+   "url": "https://www.ultimatetango.com/practica-chiquita",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Milonga - Le Bisou — Montréal, QC",
+   "date": "2026-11-03",
+   "time": "20:30",
+   "end": "23:45:00",
+   "stage": "1483 Avenue du Mont-Royal E",
+   "url": "https://cosy-montreal.com/milongas-de-montreal/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "The Tango Club - Guided Práctica — Washington, DC",
+   "date": "2026-11-03",
+   "time": "20:30",
+   "end": "22:30:00",
+   "stage": "St. Stephen and the Incarnation Episcopal Church",
+   "url": "https://sites.google.com/site/dctangocalendar/the-tango-club",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
   }
  ]
 }
