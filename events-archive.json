@@ -1626,22 +1626,6 @@
    ]
   },
   {
-   "title": "Forever Dancing Ballroom BEG. & Up Class — Washington, DC",
-   "date": "2026-11-03",
-   "time": "18:45",
-   "end": "19:30:00",
-   "stage": "Forever Dancing Ballroom",
-   "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom",
-   "type": "class",
-   "venue": "Mid-Atlantic & Carolinas",
-   "tz": "America/New_York",
-   "place": "Washington, DC",
-   "geo": [
-    38.8951,
-    -77.0364
-   ]
-  },
-  {
    "title": "Tango Class Riverton — Salt Lake City, UT",
    "date": "2026-11-03",
    "time": "19:00",
@@ -1791,22 +1775,6 @@
    "end": "20:00:00",
    "stage": "303C Mill St NE",
    "url": "https://viennatango.com/foundations-9722",
-   "type": "class",
-   "venue": "Mid-Atlantic & Carolinas",
-   "tz": "America/New_York",
-   "place": "Washington, DC",
-   "geo": [
-    38.8951,
-    -77.0364
-   ]
-  },
-  {
-   "title": "Argentine Tango Space Project BEG. Class — Washington, DC",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "end": "20:00:00",
-   "stage": "Church of the Messiah",
-   "url": "https://www.facebook.com/ArgentineTangoSpaceProject/",
    "type": "class",
    "venue": "Mid-Atlantic & Carolinas",
    "tz": "America/New_York",
@@ -2147,6 +2115,485 @@
    "geo": [
     38.8951,
     -77.0364
+   ]
+  },
+  {
+   "title": "Greg and Blair Tango 1 at Reverie Ballroom — Seattle, WA",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "end": "19:00:00",
+   "stage": "Reverie Ballroom",
+   "url": "https://www.reverieballroom.com/home",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Eva & Patricio Class — Seattle, WA",
+   "date": "2026-11-04",
+   "time": "18:30",
+   "end": "19:45:00",
+   "stage": "6532 Phinney Ave N",
+   "url": "https://www.google.com/url?q=https://www.facebook.com/groups/wednesdaypractica&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1zYB0u1_MSS7aJ2cswt974",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Beginner and Intermediate classes with John Singletary — Durham, NC",
+   "date": "2026-11-04",
+   "time": "18:30",
+   "end": "20:00:00",
+   "stage": "Move with Grace",
+   "url": "https://www.movewithgraceballroom.com/",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Durham, NC",
+   "geo": [
+    35.9967,
+    -78.9018
+   ]
+  },
+  {
+   "title": "Tango Class — Salt Lake City, UT",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "E. W. Garbett Center for Choral Studies",
+   "url": "https://wasatchtango.org/",
+   "type": "class",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Queer Tango Durham - Tango Class — Durham, NC",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end": "21:00:00",
+   "url": "https://calendar.google.com/calendar/embed?src=triangletango10%40gmail.com",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Durham, NC",
+   "geo": [
+    35.9967,
+    -78.9018
+   ]
+  },
+  {
+   "title": "Beginner Tango with Maestro Guillermo Merlo and Laura Grandi — Boston, MA",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Dance Union",
+   "url": "http://www.bostontango.org",
+   "type": "class",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Tango Esta Noche Beg. Class — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Homewood Friends",
+   "url": "https://sites.google.com/site/dctangocalendar/tango-esta-noche",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Elegant Dancing - 3-Week Series Intermediate Argentine Tango - Figures & Games — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end": "19:45:00",
+   "stage": "Elegant Dancing",
+   "url": "https://elegantdancing.com/mindbody",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Tango Esta Noche BEG. Class — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Homewood Friends",
+   "url": "https://sites.google.com/site/dctangocalendar/tango-esta-noche",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Argentine Tango Lovers Milonga — New York, NY",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "end": "23:00:00",
+   "stage": "Mirelle's",
+   "url": "https://www.argentinetangolovers.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington Int. Class — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "end": "20:30:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Pablo's Práctica — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "end": "22:30:00",
+   "stage": "Lyon Village Community House",
+   "url": "https://sites.google.com/site/dctangocalendar/lyon-village",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington INT. Class — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "end": "20:30:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Wednesday Practica - DJ Pattou — Seattle, WA",
+   "date": "2026-11-04",
+   "time": "19:45",
+   "end": "22:00:00",
+   "stage": "6532 Phinney Ave N",
+   "url": "https://www.facebook.com/groups/wednesdaypractica",
+   "type": "practica",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "💃 Advanced Argentine Tango with Ricardo @ Rhythm House — Austin, TX",
+   "date": "2026-11-04",
+   "time": "19:45",
+   "end": "20:30:00",
+   "stage": "Rhythm House ATX",
+   "url": "http://ConnectionTango.com",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Elegant Dancing - 3-Week Series Intermediate Argentine Tango - Technique & Connection — Washington, DC",
+   "date": "2026-11-04",
+   "time": "19:45",
+   "end": "20:30:00",
+   "stage": "Elegant Dancing",
+   "url": "https://elegantdancing.com/mindbody",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Tango Practica — Salt Lake City, UT",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end": "22:00:00",
+   "stage": "E. W. Garbett Center for Choral Studies",
+   "url": "https://wasatchtango.org/",
+   "type": "practica",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Tango Cafe — New York, NY",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "You Should Be Dancing",
+   "url": "https://www.adamandcikotango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Intermediate Tango with Maestro Guillermo Merlo and Laura Grandi — Boston, MA",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end": "21:30:00",
+   "stage": "Dance Union",
+   "url": "http://www.bostontango.org",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Tango Esta Noche Practica — Washington, DC",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end": "22:00:00",
+   "stage": "Homewood Friends",
+   "url": "https://sites.google.com/site/dctangocalendar/tango-esta-noche",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga - Studio Tango — Montréal, QC",
+   "date": "2026-11-04",
+   "time": "20:20",
+   "end": "00:15:00",
+   "stage": "7755 Boulevard Saint-Laurent #200",
+   "url": "https://studiotango.ca/milongas-events",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Noches de Tango — New York, NY",
+   "date": "2026-11-04",
+   "time": "20:30",
+   "end": "22:00:00",
+   "stage": "Andy's Rehearsal Studios",
+   "url": "https://carlitosdecheytango.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "💃 Intermediate Argentine Tango with Ricardo @ Rhythm House — Austin, TX",
+   "date": "2026-11-04",
+   "time": "20:30",
+   "end": "21:15:00",
+   "stage": "Rhythm House ATX",
+   "url": "http://ConnectionTango.com",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington Beg. Class — Washington, DC",
+   "date": "2026-11-04",
+   "time": "20:30",
+   "end": "21:30:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Elegant Dancing - Guided Práctica — Washington, DC",
+   "date": "2026-11-04",
+   "time": "20:30",
+   "end": "21:00:00",
+   "stage": "Elegant Dancing",
+   "url": "https://elegantdancing.com/mindbody",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington BEG. Class — Washington, DC",
+   "date": "2026-11-04",
+   "time": "20:30",
+   "end": "21:30:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga del Barrio — New York, NY",
+   "date": "2026-11-04",
+   "time": "21:00",
+   "end": "02:00:00",
+   "stage": "Hungarian House",
+   "url": "https://nytangoschool.nyc/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga Recuerdo — New York, NY",
+   "date": "2026-11-04",
+   "time": "21:00",
+   "end": "00:00:00",
+   "stage": "Paramus Firehouse",
+   "url": "http://www.tangoschool.nyc",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Dancing at our Argentino Tango Break --Milonga with Guest DJs — Boston, MA",
+   "date": "2026-11-04",
+   "time": "21:00",
+   "end": "00:00:00",
+   "stage": "Dance Union",
+   "url": "http://www.bostontango.org",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Mini-Practica 🌊 with Ricardo & Lindsey @ Rhythm House — Austin, TX",
+   "date": "2026-11-04",
+   "time": "21:15",
+   "end": "22:00:00",
+   "stage": "Rhythm House ATX\n4622 S Lamar Blvd",
+   "url": "https://austintango.org/",
+   "type": "practica",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
    ]
   }
  ]
