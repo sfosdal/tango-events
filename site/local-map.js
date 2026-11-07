@@ -65,8 +65,27 @@
   // a neighbourhood site (`map.focus: 'hood'`) opens on its own rooms — those
   // without `area: 'town'` — with room round them for the discs and names
   // (Steve, 2026-10-24: "focus to contain the URLs in that neighboorhood")
+  // the box round the neighbourhood's own line (map units), with a hair of room so the line is not on the frame's edge
+  var lineBoxOf = null, lineBoxVal = null;
+  function lineBox() { return CITY.map && CITY.map.focus === 'hood' ? lineExtent() : null; } // a neighbourhood site's own line
+  function lineExtent() { // the whole city or neighbourhood line, with a margin, in frame units — any urban site
+    if (!data || !data.boundary) return null;
+    if (lineBoxOf === data.boundary) return lineBoxVal;
+    var nums = data.boundary.match(/-?\d+(?:\.\d+)?/g), bx = [], by = [];
+    for (var i = 0; nums && i + 1 < nums.length; i += 2) { bx.push(+nums[i]); by.push(+nums[i + 1]); }
+    lineBoxOf = data.boundary; lineBoxVal = null;
+    if (bx.length < 2) return null;
+    var l = Infinity, r = -Infinity, t = Infinity, b = -Infinity; // a loop, not Math.min.apply: a city line runs to many thousand points
+    for (i = 0; i < bx.length; i++) { l = Math.min(l, bx[i]); r = Math.max(r, bx[i]); t = Math.min(t, by[i]); b = Math.max(b, by[i]); }
+    var m = Math.max(r - l, b - t) * .06;
+    return (lineBoxVal = [l - m, t - m, r - l + 2 * m, b - t + 2 * m]);
+  }
   function hoodBox() {
     if (!data || !CITY.map || CITY.map.focus !== 'hood') return null;
+    // the neighbourhood's own line, as close as the map zooms (Steve, 2026-11-03: "I want the map zoom to show the
+    // neighborhood as zoomed in as possible"); home() widens it to the deepest zoom when the line is smaller still
+    var lb = lineBox();
+    if (lb) return lb;
     var pts = ROOMS.filter(function (v) { return VENUES[v].area !== 'town'; }).map(function (v) { return px(VENUES[v].geo[0], VENUES[v].geo[1]); });
     if (!pts.length) return null;
     var xs = pts.map(function (p) { return p[0]; }), ys = pts.map(function (p) { return p[1]; });
@@ -78,11 +97,11 @@
   var atHome = true; // the view is still the opening one (no zoom or pan yet): it follows the frame's shape when that changes
   function home(draw) {
     atHome = true; var hb = hoodBox();
-    if (hb || (data && data.home)) { var h = hb || data.home, a = ar(), w = Math.max(h[2], h[3] / a); view = { x: h[0] + h[2] / 2 - w / 2, y: h[1] + h[3] / 2 - w * a / 2, w: w, h: w * a }; }
+    if (hb || (data && data.home)) { var h = hb || data.home, a = ar(), w = Math.max(h[2], h[3] / a, hb ? MIN_W() : 0); view = { x: h[0] + h[2] / 2 - w / 2, y: h[1] + h[3] / 2 - w * a / 2, w: w, h: w * a }; }
     else fit(false);
     if (draw !== false) render();
   }
-  function fit(draw) { atHome = false; var a = ar(), w = COVER() ? MAX_W() : Math.max(FRAME.w, FRAME.h / a); view = { x: (FRAME.w - w) / 2, y: (FRAME.h - w * a) / 2, w: w, h: w * a }; if (draw !== false) render(); } // a city ground: as far out as still fills the frame; an island or the world: the whole ground
+  function fit(draw) { atHome = false; var a = ar(), w = COVER() ? MAX_W() : Math.max(FRAME.w, FRAME.h / a); view = { x: (FRAME.w - w) / 2, y: (FRAME.h - w * a) / 2, w: w, h: w * a }; if (COVER()) { clamp(); takeInLine(); } if (draw !== false) render(); } // a city ground: as far out as still fills the frame; an island or the world: the whole ground
   // the frame's own proportions (height over width): it fills the content's width and the height the window leaves,
   // whatever the ground's shape — the viewBox follows the frame, not the other way round (Steve, 2026-10-24)
   function ar() { var r = svg.parentElement.getBoundingClientRect(); return r.width > 0 && r.height > 0 ? r.height / r.width : FRAME.h / FRAME.w; }
@@ -225,6 +244,7 @@
       (data.sea || []).forEach(function (d) { el('path', { d: d, 'class': 'lm-sea', 'fill-rule': 'evenodd' }, svg); });
       (data.water || []).forEach(function (d) { el('path', { d: d, 'class': 'lm-water', 'fill-rule': 'evenodd' }, svg); });
       ['secondary', 'primary', 'trunk', 'motorway'].forEach(function (c) { if (data.roads && data.roads[c]) el('path', { d: data.roads[c], 'class': 'lm-road lm-road-' + c }, svg); });
+      if (data.boundary) el('path', { d: data.boundary, 'class': 'lm-boundary' }, svg); // the city's (or neighbourhood's) own line, always on (Steve, 2026-11-02)
     } else if (data.kind === 'world') { // the ocean everywhere, the countries over it, the state lines and the great lakes over those
       el('rect', { x: -FRAME.w, y: -FRAME.h, width: FRAME.w * 3, height: FRAME.h * 3, 'class': 'lm-ocean' }, svg);
       (data.land || []).forEach(function (d) { el('path', { d: d, 'class': 'lm-island', 'fill-rule': 'evenodd' }, svg); });
@@ -299,20 +319,35 @@
   function schedule() { if (!rafId) rafId = requestAnimationFrame(function () { rafId = 0; render(); }); }
 
   // ---- zoom and pan ----
-  var MIN_W = function () { return FRAME.w / (data && data.kind === 'urban' ? 24 : data && data.kind === 'world' ? 120 : 16); }; // a city zooms a little deeper: its rooms sit a block apart; the world much deeper, down to a state's towns
+  var MIN_W = function () { // a neighbourhood site may go as deep as fills a narrow frame with its own line (Steve, 2026-11-03)
+    var base = FRAME.w / (data && data.kind === 'urban' ? 24 : data && data.kind === 'world' ? 120 : 16), lb = lineBox();
+    return lb ? Math.min(base, Math.max(lb[2], lb[3] / ar())) : base;
+  }; // a city zooms a little deeper: its rooms sit a block apart; the world much deeper, down to a state's towns
   var COVER = function () { return !!data && data.kind === 'urban'; }; // a city's ground is a rectangle of data, so the view stays inside it and the frame is always full (Steve, 2026-10-25); an island sits in open sea, the world in ocean — those run on past the data
-  var MAX_W = function () { var a = ar(); return COVER() ? Math.min(FRAME.w, FRAME.h / a) : Math.max(FRAME.w, FRAME.h / a) * 1.3; }; // out to the whole ground (plus a margin) in the frame's own shape — or, covered, as far as still fills it
+  var MAX_W = function () { // out to the whole ground (plus a margin) in the frame's own shape — or, covered, as far as still fills it,
+    var a = ar(); if (!COVER()) return Math.max(FRAME.w, FRAME.h / a) * 1.3;
+    var le = lineExtent(); // and on to the whole city line in any window shape, the ground then centred (Steve, 2026-11-05: "allow zooming out
+    return Math.max(Math.min(FRAME.w, FRAME.h / a), le ? Math.max(le[2], le[3] / a) : 0); // to show the complete city line inside the view")
+  }; // out to the whole ground (plus a margin) in the frame's own shape — or, covered, as far as still fills it
   function clamp() {
     view.w = Math.min(MAX_W(), Math.max(MIN_W(), view.w)); view.h = view.w * ar();
     var m = COVER() ? 0 : .15; // the margin the view may show past the ground
     var lo = -FRAME.w * m, hi = FRAME.w * (1 + m) - view.w; view.x = hi < lo ? (lo + hi) / 2 : Math.min(hi, Math.max(lo, view.x)); // wider than the ground: centred on it
     lo = -FRAME.h * m; hi = FRAME.h * (1 + m) - view.h; view.y = hi < lo ? (lo + hi) / 2 : Math.min(hi, Math.max(lo, view.y));
   }
+  function takeInLine() { // on a zoom out (and the fit button), past the ground's fill or all the way out: the view slides to take in as much
+    // of the city line as it holds, so at the widest the whole line shows (Steve, 2026-11-05); only then, so a pan at that scale stays free
+    var le = COVER() && view.w > Math.min(Math.min(FRAME.w, FRAME.h / ar()), MAX_W() - 1) + .5 ? lineExtent() : null;
+    if (le) { // +1: rounding at MAX_W; the line's margin is cut to the ground's edge
+      var lo = Math.max(0, Math.min(FRAME.w, le[0] + le[2]) - view.w), hi = Math.min(FRAME.w - view.w, Math.max(0, le[0])); if (lo <= hi + 1) view.x = Math.min(hi, Math.max(lo, view.x));
+      lo = Math.max(0, Math.min(FRAME.h, le[1] + le[3]) - view.h); hi = Math.min(FRAME.h - view.h, Math.max(0, le[1])); if (lo <= hi + 1) view.y = Math.min(hi, Math.max(lo, view.y));
+    }
+  }
   function zoomAt(cx, cy, f) { // cx, cy: client coordinates the zoom keeps still
     var r = svg.getBoundingClientRect(), k = view.w / r.width, fx = (cx - r.left) * k + view.x, fy = (cy - r.top) * k + view.y;
     atHome = false; var w = view.w / f; w = Math.min(MAX_W(), Math.max(MIN_W(), w)); var ff = view.w / w;
     view.x = fx - (fx - view.x) / ff; view.y = fy - (fy - view.y) / ff; view.w = w; view.h = w * ar();
-    clamp(); closePop(); schedule();
+    clamp(); if (f < 1) takeInLine(); closePop(); schedule();
   }
   // the double-click and the + / − buttons glide to the new scale over a moment, eased, the way a pinch moves — they jumped
   // until Steve (2026-10-31): "when double clicking to zoome the map, it should just jump, it should slow zoom in. link pinch

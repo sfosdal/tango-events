@@ -63,6 +63,8 @@
     'More Cities': 'Más ciudades',
     'Color theme': 'Tema de color', 'Light': 'Claro', 'Dark': 'Oscuro', 'System': 'Sistema',
     'Filters': 'Filtros', 'Filter': 'Filtrar', 'Search…': 'Buscar…',
+    'Apply': 'Aplicar', // the filter panel's foot (here-core, 2026-11-05)
+    'Your calendar keeps the filters set now. To change them later, add it again.': 'Tu calendario conserva los filtros que tengas ahora. Para cambiarlos más tarde, vuelve a añadirlo.',
     'Search events by venue, team, or type': 'Buscar eventos por región, lugar o tipo',
     'View': 'Vista', 'Events': 'Eventos', 'List': 'Lista', 'Month': 'Mes', 'Map': 'Mapa', 'Communities': 'Comunidades',
     'Month — the month\'s events on a calendar': 'Mes — los eventos del mes en un calendario',
