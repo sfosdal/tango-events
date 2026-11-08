@@ -3319,22 +3319,6 @@
    ]
   },
   {
-   "title": "TINA Alternative Free Milonga — Washington, DC",
-   "date": "2026-11-06",
-   "time": "19:30",
-   "end": "22:00:00",
-   "stage": "Bryant St Market",
-   "url": "https://www.eventbrite.com/e/argentine-tango-bryant-street-market-tickets-1087092736639?aff=ebdsoporgprofile",
-   "type": "milonga",
-   "venue": "Mid-Atlantic & Carolinas",
-   "tz": "America/New_York",
-   "place": "Washington, DC",
-   "geo": [
-    38.8951,
-    -77.0364
-   ]
-  },
-  {
    "title": "💃 Intermediate Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
    "date": "2026-11-06",
    "time": "19:45",
@@ -3428,22 +3412,6 @@
    "geo": [
     38.8951,
     -77.0364
-   ]
-  },
-  {
-   "title": "BREAK Friday Tango Practice Corner Tango — Salt Lake City, UT",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "end": "23:30:00",
-   "stage": "2505 S State St",
-   "url": "https://wasatchtango.org/",
-   "type": "practica",
-   "venue": "Mountain West",
-   "tz": "America/Denver",
-   "place": "Salt Lake City, UT",
-   "geo": [
-    40.7596,
-    -111.8868
    ]
   },
   {
@@ -3588,6 +3556,632 @@
    "geo": [
     38.8951,
     -77.0364
+   ]
+  },
+  {
+   "venue": "Festivals & Marathons",
+   "title": "Pittsburgh Tango Fierro Marathon — Robinson Township, PA",
+   "url": "https://tangofestivals.net/location/united-states/",
+   "type": "festival",
+   "date": "2026-11-07",
+   "time": "",
+   "place": "Robinson Township, PA",
+   "geo": [
+    40.4178,
+    -80.3169
+   ]
+  },
+  {
+   "venue": "Buenos Aires Tours",
+   "type": "tour",
+   "url": "https://www.ultimatetango.com/visit-buenos-aires",
+   "title": "Tango Immersion: Buenos Aires · Andi & Brian, Ultimate Tango (Malden, MA) — Buenos Aires, Argentina",
+   "date": "2026-11-07",
+   "time": "",
+   "place": "Buenos Aires, Argentina",
+   "geo": [
+    -34.6096,
+    -58.3888
+   ]
+  },
+  {
+   "venue": "Buenos Aires Tours",
+   "type": "tour",
+   "url": "https://www.tangorojo.com/tour.html",
+   "title": "Buenos Aires Tango Tour · Dale Ellison (Tango Rojo) & Jorge Duras (Tango Sueño) (Charleston, SC) — Buenos Aires, Argentina",
+   "date": "2026-11-07",
+   "time": "",
+   "place": "Buenos Aires, Argentina",
+   "geo": [
+    -34.6096,
+    -58.3888
+   ]
+  },
+  {
+   "title": "Mariela's Practica — New York, NY",
+   "date": "2026-11-07",
+   "time": "11:00",
+   "end": "14:00:00",
+   "stage": "Emmanuel Pierre-Antoine Dance Studio",
+   "url": "https://tango-flow.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "2. Eight Ways to Switch the Ocho — Salt Lake City, UT",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "end": "14:30:00",
+   "stage": "E. W. Garbett Center for Choral Studies",
+   "url": "https://venmo.com/Wasatch-Tango",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Carolina del Rivero & Ricardo Biggeri Intensive Milonga Workshop — Seattle, WA",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "Dance Underground",
+   "url": "https://www.google.com/url?q=https://allseattletango.com/wp/2026/09/carolina-del-rivero-ricardo-biggeri-special-milonga-weekend-november-6-8-2026/&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw19aWNVk32-MXKDyZzlQUn2",
+   "type": "class",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Milonga - Tangueria — Montréal, QC",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "6396 Rue St-Hubert",
+   "url": "http://www.tangueria.org/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Practilonga - Tango Club Rive Nord — Montréal, QC",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "end": "16:00:00",
+   "stage": "Grand Studio",
+   "url": "https://tangoclubrivenord.com/practilonga-2/",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Practica - Tango Rico — Montréal, QC",
+   "date": "2026-11-07",
+   "time": "13:30",
+   "end": "16:00:00",
+   "stage": "1154 Av. Victoria studio u",
+   "url": "https://tangorico.com/boutique/fr/Evenement/la-practica-de-tango-rico-a-st-lambert-p435c97/",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "La Milonguita — Ottawa, ON",
+   "date": "2026-11-07",
+   "time": "13:30",
+   "end": "17:00:00",
+   "url": "https://siempretango.ca/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Tango, Beginner Level with Monica Caivano & Gustavo Simplis at Esquina Tango — Austin, TX",
+   "date": "2026-11-07",
+   "time": "13:30",
+   "end": "14:30:00",
+   "stage": "EsquinaTango",
+   "url": "https://www.esquinatango.org/classes/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "DC Queer Tango Collective Free Open Práctica — Washington, DC",
+   "date": "2026-11-07",
+   "time": "13:30",
+   "end": "15:00:00",
+   "stage": "Cultural Arts Center",
+   "url": "https://www.google.com/url?q=https://www.dcqueertangocollective.com/community-norms&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw0AjNbXCsgmLrmeXB1Eyoq5",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Bare Bones — New York, NY",
+   "date": "2026-11-07",
+   "time": "14:00",
+   "end": "17:30:00",
+   "stage": "Adelante Studios",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "VTS: 4 Week Series Sacadas with Gabriel & Cati — Washington, DC",
+   "date": "2026-11-07",
+   "time": "14:00",
+   "end": "16:00:00",
+   "stage": "303C Mill St NE",
+   "url": "https://viennatango.com/special-topics-sacadas",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington - Beg. Level 1 series — Washington, DC",
+   "date": "2026-11-07",
+   "time": "14:00",
+   "end": "15:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington - BEG. Level 1 series — Washington, DC",
+   "date": "2026-11-07",
+   "time": "14:00",
+   "end": "15:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "3. The Winning Sacada — Salt Lake City, UT",
+   "date": "2026-11-07",
+   "time": "14:30",
+   "end": "17:00:00",
+   "stage": "E. W. Garbett Center for Choral Studies",
+   "url": "https://venmo.com/Wasatch-Tango",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Practica - Las Piernas — Montréal, QC",
+   "date": "2026-11-07",
+   "time": "14:30",
+   "end": "17:30:00",
+   "stage": "2019 Rue Moreau",
+   "url": "https://laspiernastango.ca/#nos-activities",
+   "type": "practica",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Tango, Intermediate Level with Monica Caivano & Gustavo Simplis at Esquina Tango — Austin, TX",
+   "date": "2026-11-07",
+   "time": "14:30",
+   "end": "15:30:00",
+   "stage": "EsquinaTango",
+   "url": "https://www.esquinatango.org/classes/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Gwu Saturday Tango Free Práctica — Washington, DC",
+   "date": "2026-11-07",
+   "time": "14:30",
+   "end": "17:00:00",
+   "stage": "Mitchell Hall",
+   "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "GWU Saturday Tango Free Práctica — Washington, DC",
+   "date": "2026-11-07",
+   "time": "14:30",
+   "end": "17:00:00",
+   "stage": "Mitchell Hall",
+   "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "ArTS of Greater Washington Open Práctica — Washington, DC",
+   "date": "2026-11-07",
+   "time": "15:00",
+   "end": "16:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Beginner's Tango at La Casa de Baile — Washington, DC",
+   "date": "2026-11-07",
+   "time": "15:00",
+   "end": "16:30:00",
+   "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "DC Queer Tango Collective - Intermediate-Level Class, with Olga and José — Washington, DC",
+   "date": "2026-11-07",
+   "time": "15:00",
+   "end": "16:30:00",
+   "stage": "Cultural Arts Center",
+   "url": "https://www.eventbrite.com/e/queer-tango-intermediate-class-with-olga-and-jose-tickets-2003588590409",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Victoria's Practica — New York, NY",
+   "date": "2026-11-07",
+   "time": "15:30",
+   "end": "17:00:00",
+   "stage": "Ripley Grier Studios - Midtown",
+   "url": "https://victoriacodru.com/calendar",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Intermediate Tango (Vals) at La Casa de Baile — Washington, DC",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "end": "18:30:00",
+   "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga Fernet — New York, NY",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "end": "00:00:00",
+   "stage": "Allied Performing Arts Center",
+   "url": "https://www.tangoflow.club/services-2",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Práctica at La Casa de Baile — Washington, DC",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "end": "21:00:00",
+   "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile",
+   "type": "practica",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Practica Del Mundo — New York, NY",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end": "21:30:00",
+   "stage": "Rogers Dance Center",
+   "url": "https://www.newyorktango.com/",
+   "type": "practica",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga de Mis Amores — New York, NY",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end": "00:00:00",
+   "stage": "Paramus Fire House Co No 4",
+   "url": "https://tangoschool.nyc/events-booking/milongas/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga Para Todos - Pre-Milonga Lesson — Washington, DC",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Clarendon Presbyterian Church",
+   "url": "https://sites.google.com/site/dctangocalendar/siempre-es-carnaval",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Pre-Milonga Lesson: Milonga Para Todos w/Alejandra and Diego — Washington, DC",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Clarendon Presbyterian Church",
+   "url": "https://sites.google.com/site/dctangocalendar/siempre-es-carnaval",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Esquina Tango Milonga — Austin, TX",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end": "23:30:00",
+   "stage": "EsquinaTango",
+   "url": "https://www.esquinatango.org/1stsat3rdfrimilonga/",
+   "type": "milonga",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Mala Leche — New York, NY",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end": "01:00:00",
+   "stage": "You Should Be Dancing",
+   "url": "https://www.adamandcikotango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga Nueva — Boston, MA",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end": "01:00:00",
+   "stage": "Dance Union Studio",
+   "url": "https://www.facebook.com/groups/milonganueva/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Milonga Abrazo — Washington, DC",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "303C Mill St NE",
+   "url": "https://viennatango.com/events-7223",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga Para Todos — Washington, DC",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "Clarendon Presbyterian Church",
+   "url": "https://sites.google.com/site/dctangocalendar/siempre-es-carnaval",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Grand Milonga — Salt Lake City, UT",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "end": "00:00:00",
+   "stage": "E. W. Garbett Center for Choral Studies",
+   "url": "https://wasatchtango.org/",
+   "type": "milonga",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Saturday Night Milonga at Dance Underground DJ: Ricardo Biggeri — Seattle, WA",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "end": "00:00:00",
+   "url": "https://www.allseattletango.com/",
+   "type": "milonga",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Milonga - Studio Tango — Montréal, QC",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "end": "02:00:00",
+   "stage": "7755 boul St Laurent",
+   "url": "https://studiotango.ca/milonga-products/saturday-night-the-tsc-milonga",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
    ]
   }
  ]
