@@ -6765,6 +6765,469 @@
     38.8951,
     -77.0364
    ]
+  },
+  {
+   "venue": "Festivals & Marathons",
+   "title": "Bay Tango Festival & Marathon — Berkeley, CA",
+   "url": "https://baytango.com",
+   "type": "festival",
+   "date": "2026-11-13",
+   "time": "",
+   "place": "Berkeley, CA",
+   "geo": [
+    37.8708,
+    -122.2729
+   ]
+  },
+  {
+   "venue": "Festivals & Marathons",
+   "title": "Abrazos Tango Festival — New York, NY",
+   "url": "https://tangofestivals.net/location/united-states/",
+   "type": "festival",
+   "date": "2026-11-13",
+   "time": "",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "venue": "Festivals & Marathons",
+   "title": "Gainesville Tango Weekend — Gainesville, FL",
+   "url": "https://tangofestivals.net/location/united-states/",
+   "type": "festival",
+   "date": "2026-11-13",
+   "time": "",
+   "place": "Gainesville, FL",
+   "geo": [
+    29.652,
+    -82.325
+   ]
+  },
+  {
+   "venue": "Buenos Aires Tours",
+   "type": "tour",
+   "url": "https://www.ultimatetango.com/visit-buenos-aires",
+   "title": "Tango Immersion: Buenos Aires · Andi & Brian, Ultimate Tango (Malden, MA) — Buenos Aires, Argentina",
+   "date": "2026-11-13",
+   "time": "",
+   "place": "Buenos Aires, Argentina",
+   "geo": [
+    -34.6096,
+    -58.3888
+   ]
+  },
+  {
+   "venue": "Buenos Aires Tours",
+   "type": "tour",
+   "url": "https://www.tangorojo.com/tour.html",
+   "title": "Buenos Aires Tango Tour · Dale Ellison (Tango Rojo) & Jorge Duras (Tango Sueño) (Charleston, SC) — Buenos Aires, Argentina",
+   "date": "2026-11-13",
+   "time": "",
+   "place": "Buenos Aires, Argentina",
+   "geo": [
+    -34.6096,
+    -58.3888
+   ]
+  },
+  {
+   "title": "Midi-Milonga - Las Piernas — Montréal, QC",
+   "date": "2026-11-13",
+   "time": "12:00",
+   "end": "16:00:00",
+   "stage": "2019 Rue Moreau",
+   "url": "https://laspiernastango.ca/#nos-activities",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Tango Express — Ottawa, ON",
+   "date": "2026-11-13",
+   "time": "12:10",
+   "end": "13:10:00",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfFmRUcQDJwNRY1gqScPK_fHbu-WKR_N0D69b3v3BX-d3qiKA/viewform?usp=header",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Ottawa, ON",
+   "geo": [
+    45.4209,
+    -75.6901
+   ]
+  },
+  {
+   "title": "Tango, All Levels, Michelle Wald at Castle Hills — Austin, TX",
+   "date": "2026-11-13",
+   "time": "17:30",
+   "end": "18:30:00",
+   "stage": "Castle Hill Fitness Gym & Spa",
+   "url": "https://www.esquinatango.org/community-classes/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "💃 Beginner Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
+   "date": "2026-11-13",
+   "time": "18:15",
+   "end": "19:00:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "💃 Advanced Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "end": "19:45:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Milonga Extravaganza - Free Beg. Class — Washington, DC",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga Extravaganza - Free BEG. Class — Washington, DC",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "end": "20:00:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Victoria's Milonga — New York, NY",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "end": "23:00:00",
+   "stage": "Ripley Grier Studios - Midtown",
+   "url": "https://victoriacodru.com/calendar",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga - Tangusto (Bi-weekly) — Montréal, QC",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "end": "23:30:00",
+   "stage": "20 Rue Jacinthe",
+   "url": "https://www.facebook.com/tangusto3r",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "💃 Intermediate Argentine Tango with Ricardo @ Austin Uptown — Austin, TX",
+   "date": "2026-11-13",
+   "time": "19:45",
+   "end": "20:30:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "class",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Break Tango Practice Corner Tango — Salt Lake City, UT",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end": "22:00:00",
+   "stage": "2505 S State St",
+   "url": "https://wasatchtango.org/",
+   "type": "practica",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "DJ Fernando Ulises at Reverie Ballroom Monthly Milonga — Seattle, WA",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "915 E Pine St",
+   "url": "https://www.allseattletango.com/",
+   "type": "milonga",
+   "venue": "Pacific Northwest",
+   "tz": "America/Los_Angeles",
+   "place": "Seattle, WA",
+   "geo": [
+    47.6038,
+    -122.3301
+   ]
+  },
+  {
+   "title": "Milonga a Media Luz — New York, NY",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end": "00:00:00",
+   "stage": "IM Gallery",
+   "url": "https://www.newyorktango.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Pre-Milonga El Yeite Class — Washington, DC",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end": "21:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington",
+   "type": "class",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Milonga Extravaganza — Washington, DC",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end": "01:00:00",
+   "stage": "Severna Park Racquetball & Fitness Club",
+   "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "BREAK Tango Practice Corner Tango — Salt Lake City, UT",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "end": "22:00:00",
+   "stage": "2505 S State St",
+   "url": "https://wasatchtango.org/",
+   "type": "practica",
+   "venue": "Mountain West",
+   "tz": "America/Denver",
+   "place": "Salt Lake City, UT",
+   "geo": [
+    40.7596,
+    -111.8868
+   ]
+  },
+  {
+   "title": "Milonga - Tango Libre — Montréal, QC",
+   "date": "2026-11-13",
+   "time": "20:15",
+   "end": "00:00:00",
+   "stage": "1650 Rue Marie-Anne Est",
+   "url": "http://www.tangolibre.ca/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Practica 🌊 Buena Onda 🌊 with Ricardo & Lindsey @ Austin Uptown Studio — Austin, TX",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "end": "22:00:00",
+   "stage": "Austin Uptown Dance",
+   "url": "https://austintango.org/",
+   "type": "practica",
+   "venue": "Texas, the South & Midwest",
+   "tz": "America/Chicago",
+   "place": "Austin, TX",
+   "geo": [
+    30.2649,
+    -97.7474
+   ]
+  },
+  {
+   "title": "Milonga Buscándote — Washington, DC",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "end": "00:30:00",
+   "stage": "Seekers Church",
+   "url": "https://sites.google.com/site/dctangocalendar/the-tango-club",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
+  },
+  {
+   "title": "Esa! Milonga — New York, NY",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "Ukrainian Private Ballroom",
+   "url": "https://www.marcosyflorencia.com/",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Abrazos Tango Festival — New York, NY",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "end": "02:00:00",
+   "stage": "Hungarian House",
+   "url": "https://abrazostangofestival.com/",
+   "type": "festival",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "New York, NY",
+   "geo": [
+    40.7127,
+    -74.006
+   ]
+  },
+  {
+   "title": "Milonga Poema--Special Performace — Boston, MA",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "end": "01:00:00",
+   "url": "https://www.bostontango.org/milonga-poema.html",
+   "type": "milonga",
+   "venue": "New York & New England",
+   "tz": "America/New_York",
+   "place": "Boston, MA",
+   "geo": [
+    42.3588,
+    -71.0578
+   ]
+  },
+  {
+   "title": "Milonga - Cosy — Montréal, QC",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "1483 Avenue du Mont-Royal E",
+   "url": "https://cosy-montreal.com/milongas-de-montreal/",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Milonga - MonTango — Montréal, QC",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "5588A Sherbrooke St W",
+   "url": "https://www.montango.ca/milongas-pr%C3%A1cticas",
+   "type": "milonga",
+   "venue": "Canada",
+   "tz": "America/Toronto",
+   "place": "Montréal, QC",
+   "geo": [
+    45.5032,
+    -73.5698
+   ]
+  },
+  {
+   "title": "Milonga El Yeite — Washington, DC",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "end": "01:00:00",
+   "stage": "5608 Randolph Road",
+   "url": "https://sites.google.com/site/dctangocalendar/milonga-el-yeite-fridays",
+   "type": "milonga",
+   "venue": "Mid-Atlantic & Carolinas",
+   "tz": "America/New_York",
+   "place": "Washington, DC",
+   "geo": [
+    38.8951,
+    -77.0364
+   ]
   }
  ]
 }
