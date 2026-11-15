@@ -126,6 +126,7 @@
     // the footer
     'Advertise on this calendar': 'Anunciarse en este calendario', 'Advertise': 'Anunciarse',
     'Where the listings come from': 'De dónde vienen los eventos', 'Sources': 'Fuentes',
+    'Cookies, analytics and ads': 'Cookies, analítica y anuncios', 'Privacy': 'Privacidad',
     'Embed': 'Insertar', 'Events widget': 'Widget de eventos', 'Data feeds': 'Datos', 'Filter links': 'Enlaces con filtro',
     'Drop these two lines into any page and the next events render in place. Style it with the': 'Pega estas dos líneas en cualquier página y los próximos eventos aparecen ahí. Dale estilo con las clases CSS',
     'CSS classes.': '.',
